@@ -1,0 +1,24 @@
+/* body {
+  background-image: url(images/img.jpeg);
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: cover;
+  background-attachment: fixed;
+} */
+
+.body {
+  background-image: url(images/img.jpeg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.try {
+  background-color: brown;
+}
+
+.bg-red {
+  background-color: red;
+}
